@@ -1,0 +1,29 @@
+.banner_img{
+   
+    margin-top: 65px;
+    background-image: url("../images/banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1170px;
+    height: 550px;
+    border-radius: 8px;
+}
+.form{
+    width: 500px;
+    height: 64px;
+}
+.card{
+    margin-top: 65px;
+    width: 400px;
+    height: 30px;
+}
+.card img{
+    margin-top: 65px;
+   width: 63px;
+   height: 72px;
+}
+.card-footer img{
+    width: 40px;
+   height: 40px;
+  
+}
